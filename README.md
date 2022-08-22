@@ -33,3 +33,4 @@ Feito com ❤️ por Wagner Paulo 👋🏽
 Entre em contato!
 
 Co-authored-by: felipethiago21 <felipethiagorx@gmail.com>
+Co-authored-by: Haruwolf <name@example.com>
